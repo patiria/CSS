@@ -1,0 +1,12 @@
+p {
+    background-color: blue;
+}
+p {
+    background-color: crimson;
+}
+p#paragraph {
+    background-color: magenta;
+}
+p {
+    background-color: salmon !important;
+}
