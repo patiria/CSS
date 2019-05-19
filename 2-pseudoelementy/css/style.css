@@ -1,0 +1,13 @@
+body {
+    background-color:lime;
+ }
+
+ #pierwszy::before {
+     content:"Ale ma kota";
+     color:red;
+ }
+
+ #drugi::after {
+     content:"Kot ma Sebastiana";
+     color:pink;
+ }
