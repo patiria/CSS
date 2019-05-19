@@ -1,0 +1,32 @@
+* {
+    color:lightgray;
+}
+
+p {
+
+color:palevioletred
+}
+
+#kasia {
+    color:black;
+}
+
+.lorak {
+    color:blue;
+}
+
+ul a {
+    color:red;
+}
+
+li > a {
+    color:green;
+}
+
+li#pierwszy + li {
+    background-color: brown;
+}
+
+li#pierwszy ~ li {
+    background-color: aquamarine;
+}
