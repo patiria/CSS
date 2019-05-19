@@ -1,0 +1,9 @@
+#background-img {
+    background-color: burlywood;
+    background-image: url(../img/Lis02.png);
+    background-repeat: repeat-x;
+    background-position: top center;
+    background-size: 35% 35%;
+    background-attachment: fixed;
+    color: darkslategrey;
+}
