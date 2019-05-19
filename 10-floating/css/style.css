@@ -1,0 +1,12 @@
+#lis1 {
+    float: left;
+}
+
+#lis2 {
+    float: right;
+}
+
+p:last-child {
+    background-color: lime;
+    clear: both;
+}
