@@ -1,0 +1,30 @@
+#p1 {
+    background-color: gold;
+}
+#p2 {
+    border: 2px solid black;
+    background-color: silver;
+}
+#inline-elements p {
+    display: inline;
+}
+#inline-p1 {
+    background-color: aquamarine;
+}
+#inline-p2 {
+    text-decoration: underline;
+    background-color: aqua;
+}
+
+#inline-block-elements li {
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+    background-color: coral;
+
+}
+
+#display-none {
+    display: none;
+}
