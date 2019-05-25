@@ -15,10 +15,10 @@ body {
 }
 
 @media (max-width: 900px) {
-    .box {
+    .box {  
         width: 50%;
     }
-    media (max-width: 768px) {
+@media (max-width: 768px) {
         .box {
             width: 100%;
         }
